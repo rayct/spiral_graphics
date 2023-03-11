@@ -1,0 +1,4 @@
+# mac hidden files
+vscode
+.DS_Store
+spiral_graphics_venv
